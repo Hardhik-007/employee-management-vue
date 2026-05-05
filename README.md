@@ -51,7 +51,6 @@ employee-management/
 
 ## API Endpoint
 
-Replace with your actual MockAPI endpoint:
 
 ```
 https://69f8b6def7044aa0103e5f06.mockapi.io/employees
