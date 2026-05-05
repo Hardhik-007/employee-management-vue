@@ -91,7 +91,19 @@ npm run dev
 http://localhost:5173/
 ```
 
+## Screenshots
 
+### Add Employee
+![Add](create.png)
+
+### View Employees
+![View](Read.png)
+
+### Update Employee
+![Update](Update.png)
+
+### Delete Employee
+![Delete](Delete.png)
 ---
 
 ## Learning Outcome
